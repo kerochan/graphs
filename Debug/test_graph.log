@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\kerochan\source\repos\test_graph\test_graph\Main.cpp(36): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\kerochan\source\repos\test_graph\test_graph\Main.cpp(37): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  test_graph.vcxproj -> C:\Users\kerochan\source\repos\test_graph\Debug\test_graph.exe
