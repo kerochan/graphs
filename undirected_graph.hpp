@@ -54,7 +54,7 @@ namespace mylib {
 	};
 
 	/*
-		undirected_graph’è‹`•”
+		undirected_graph’è‹`
 	*/
 	template<typename T>
 	undirected_graph<T>::undirected_graph() {
